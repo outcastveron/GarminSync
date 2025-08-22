@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/-Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/garmindailysync)
 
 
-## Web版本
+## Web版本 
 如果你不熟悉代码，强烈推荐使用这个版本，在网页上填入账号点击就能同步数据，简洁好用。
 [https://dailysync.vyzt.dev/](https://dailysync.vyzt.dev/)
 
